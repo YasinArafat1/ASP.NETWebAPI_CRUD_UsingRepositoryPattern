@@ -1,0 +1,16 @@
+After opening app right click on solution and set run multiple project than
+run the command update-database in api server project for creating database in your machine
+and change the sql server instance give your sql server instance in appsetting.json.
+
+
+1.in the Pipilika Solution there is two project one is PipilikaSoftApi
+which is working as a api server.
+another is pipilikaSoftUI
+which is user interface 
+2.Both working fine i applied Repository Pattern  to 
+provides an abstraction layer between the business logic  and the data access code.
+3.CRUD opertion in both controller are performing through RESTful WEB Api.
+and no controller is made by using visual studio scafolding 
+
+Thank You,
+Yasin Arafat
